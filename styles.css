@@ -9,10 +9,6 @@
 iframe {
     margin: 0 auto;
     display:block; 
-    width:600; 
-    height:371; 
-    seamless frameborder:0; 
-    scrolling:no; 
 }
 
 .ol {
