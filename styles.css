@@ -6,6 +6,11 @@
 .div {
     text-align: center;
 }
+iframe {
+    margin: 0 auto;
+    display:block; 
+}
+
 .ol {
     color: rgb(133, 127, 127);
     text-align: center;
